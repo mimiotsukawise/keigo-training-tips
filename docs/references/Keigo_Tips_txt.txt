@@ -1,0 +1,439 @@
+KEIGO TIPS
+==========
+All 敬語 (Keigo) tips compiled for easy reference.
+
+---
+
+Vol.1 — もしもし
+Author: March 20, 2024
+
+❌ Avoid: 「もしもし」— too casual for business use.
+
+✅ Use instead: お客様, or:
+- If you cannot hear CST's voice: 私の声は届いておりますでしょうか？
+- If CST doesn't sound sure it's connected: お声届いておりますよ
+- When CST's voice is too small or choppy: 少々お声が遠いようでして、もう一度仰っていただけますか？
+
+---
+
+Vol.2 — なるほど
+Author: March 21, 2024
+
+❌ Avoid: 「なるほど」／「なるほどです」— can imply you are evaluating what CST says (potentially condescending).
+
+✅ Use instead:
+- 左様でございますか
+- 承知いたしました
+- かしこまりました
+- 詳しくご教示いただきありがとうございます
+- ご説明いただきありがとうございます
+
+---
+
+Vol.3 — お名前を頂戴します
+Author: March 25, 2024
+
+❌ Avoid: 「お名前を頂戴します」— 頂戴する means "to receive something", which sounds like taking the name out of the customer.
+
+✅ Use instead:
+- お名前を伺います（お伺いします is 二重敬語）
+- お名前をお聞きします
+- お名前をお尋ねします
+- お名前を教えていただけますか
+
+---
+
+Vol.4 — とんでもございません／とんでもありません
+Author: March 25, 2024
+
+❌ Avoid: 「とんでもございません」／「とんでもありません」— grammatically incorrect (とんでもない is one adjective).
+
+✅ Correct version:
+- とんでもないことでございます
+- 滅相（めっそう）もないことでございます
+
+⚠️ Note: These are strong ways to deny something ("no way"/"unbelievable"). Use when CST says "sorry for bothering you" or "thanks for your help" — NOT when CST gives compliments (it can be rude to deny those).
+
+When receiving a compliment, say:
+- ありがとうございます
+- 恐れ入ります
+- 恐縮です
+- 光栄です
+
+---
+
+Vol.5 — 致し（いたし）かねます
+Author: March 27, 2024
+
+⚠️ Note: 致しかねます is 謙譲語 — the subject must be I or WE, not the customer.
+
+- ❌ 第三者様からのお問い合わせは致しかねます（Subject = CST）
+- ✅ 第三者様からのお問い合わせの場合は、お調べ致しかねます（Subject = WE）
+
+Tip: Consider using 「出来かねます」over 「致しかねます」:
+- 致しかねます = I wouldn't do it
+- 出来かねます = I can't do it
+
+When saying no, always:
+- Explain WHY (e.g. お客様都合のキャンセルの場合、カード手数料のご返金は致しかねます)
+- Use a cushion word (e.g. 恐れ入りますが、申し上げにくいのですが)
+- Sound genuinely sorry in your tone of voice
+
+---
+
+Vol.6 — ＊＊になります
+Author: March 29, 2024
+
+❌ Avoid when there is no change of state:
+- ❌ 100万円以下の送金は日本国内銀行から払い出すため、国内送金の扱いになります。
+- ❌ 書類はセルフサービスからのご提出になります。
+
+✅ Use instead when no change is involved:
+- 100万円以下の送金は日本国内銀行から払い出しますため、国内送金の扱いでございます。
+- 書類はセルフサービスからご提出いただけます。／ご提出くださいませ。
+
+✅ OK to use ～になります when a change is involved:
+- PINを複数回間違えてしまうとカードをご利用いただけない状態になります。（利用可→利用不可）
+
+---
+
+Vol.7 — 思います vs 存じます
+Author: April 11, 2024
+
+- 思います = polite (丁寧語)
+- 存じます = more professional (謙譲語)
+
+Best practice:
+1. ご返金が完了しているかと思います。→ OK
+2. ご返金が完了しているかと存じます。→ Better
+3. ご返金が完了しております。→ Best (sounds like solid fact, not an opinion)
+
+⚠️ Note: 存じ上げます can be used ONLY for people.
+- ✅ 山田様のことはかねてより存じ上げております。
+- ❌ MUFJ银行からのご入金は可能かと存じ上げます。
+
+---
+
+Vol.8 — 担当部署にお伝えします
+Author: April 18, 2024
+
+❌ Avoid: 「担当部署にお伝えします」— お伝えする shows respect to 担当部署, not the customer.
+
+✅ Use instead:
+- 申し伝えます
+
+---
+
+Vol.9 — Tips for Improving Your 敬語
+Author: April 24, 2024
+
+Practical tips when struggling to fix habits:
+- My brain knows but my mouth doesn't follow → Say it out loud by yourself several times. Try roleplay with teammates. Practice makes perfect!
+- Still struggling after practicing → Start from fixing it in emails where you have more time to think and correct before sending.
+- I forget what was right → Review the posts in this thread. Use sticky notes (付箋) on your PC screen as a reminder during calls.
+- I did everything and still struggling → Stop using both correct and wrong phrases and use synonyms instead. E.g. instead of とんでもないことでございます, try いえいえ、こちらこそお問い合わせいただきありがとうございます.
+
+---
+
+Vol.10 — Kanji Reading
+Author: April 24, 2024
+
+Common kanji pronunciation mistakes:
+
+Kanji     | ✅ Correct  | ❌ Incorrect | Example
+----------|------------|-------------|--------
+遵守      | じゅんしゅ  | そんしゅ      | 法令遵守のため確認にご協力ください。
+重複      | ちょうふく  | じゅうふく    | 重複アカウントはお持ちいただけません。
+早急      | さっきゅう  | そうきゅう    | 早急に解決できるよう尽力いたします。
+代替      | だいたい   | だいがえ      | 代替書類として、給与明細と銀行取引明細書も受付が可能です。
+相殺      | そうさい   | そうさつ      | 保有されていたご資金はカードの手数料で相殺されております。
+既存      | きそん    | きぞん        | 既存のアカウントを引き続きご利用ください。
+
+---
+
+Vol.11 — How to Refer to CST's Family & Friends
+Author: May 7, 2024
+
+Relationship   | Japanese Term                              | Reading
+---------------|---------------------------------------------|----------
+Customer       | お客様                                      | おきゃくさま
+Family         | ご家族、ご家族の方                             | ごかぞく
+Mother         | お母様                                      | おかあさま
+Father         | お父様                                      | おとうさま
+Wife           | 奥様                                        | おくさま
+Husband        | ご主人                                      | ごしゅじん
+Daughter       | ご息女（ご息女様 is 二重敬語）                   | ごそくじょ
+Son            | ご子息（ご子息様 is 二重敬語）                   | ごしそく
+Grandmother    | お祖母様                                     | おばあさま
+Grandfather    | お祖父様                                     | おじいさま
+Friends        | ご友人、ご友人の方（ご友人様 is 二重敬語）          | ごゆうじん
+
+Note: Some people avoid 奥様／ご主人 for feminist reasons. Alternatives: ご家族、配偶者（はいぐうしゃ）様、配偶者の方.
+Also: 親御さん (for parents) and お子様 (for children) are both fine.
+
+---
+
+Vol.12 — Using 「ご（御）」 correctly
+Author: May 20, 2024
+
+The issue: Adding 「ご」to a word when the subject isn't the customer.
+
+- ✅ お客様のご認識どおりUSDへの送金は可能でございます。
+- ❌ USDの送金がキャンセルされた、というご認識でお間違いないでしょうか。 *(Here "認識" belongs to us/the agent, not the customer)*
+
+⚠️ Exception — You CAN add 「ご」when your action requires CST's reaction (謙譲語):
+- ご確認（かくにん）
+- ご説明（せつめい）
+- ご報告（ほうこく）
+- ご質問（しつもん）
+- ご依頼（いらい）
+
+E.g. ご報告いたします
+
+---
+
+Vol.13 — 形（かたち）
+Author: May 27, 2024
+
+❌ Avoid using 形 when it doesn't have a physical shape:
+- ✅ まるい形のアイコンです
+- ❌ メールに書類をご添付いただく形でご提出ください。
+
+Also avoid: 「という形になります」— wrong wording.
+- ❌ マイナンバーカードをお持ちでない場合は住民票をご取得いただく形になります。
+- ✅ マイナンバーカードをお持ちでない場合は住民票をご取得いただく必要がございます。
+
+---
+
+Vol.14 — Putting CST on HOLD
+Author: May 29, 2024
+
+Key principle: Shorter hold time is always better.
+
+What you can do to improve CST's experience:
+- Set clear expectations beforehand: お調べしてまいりますので恐れ入りますが3分ほどお待ちいただけますか？
+- Come back if it's taking longer: お待たせしております。確認にもう少々お時間いただきたいのですが、このままお待ちいただけますか？
+- Offer email follow-up: 更にお時間いただいてしまうので、よろしければお電話を一度おきりいただいて、本日中にメールにてご回答差し上げてもよろしいでしょうか？
+
+Always ask if it's okay to put CST on hold — don't just tell them:
+- ✅ お電話保留にしてもよろしいですか？
+- ✅ お電話このままでお待ちいただけますか？
+- ❌ 確認してまいりますのでお電話保留にします（CST may not have time to wait）
+
+---
+
+Vol.15 — Is 「ご」生年月日 correct?
+Author: July 31, 2024
+
+Question: Should we say ご生年月日 or just 生年月日?
+
+Conclusion: We don't need to put 「ご」, but using it isn't absolutely wrong either.
+- Some books on 敬語 & phone manner use 生年月日 (without ご)
+- DOB is inanimate — no need to show respect
+- References: 電話応対受け方・かけ方大事典 (pp.127, 128, 388), 闘う敬語
+
+The choice is yours — both are acceptable.
+
+---
+
+Vol.16 — Better in Hiragana
+Author: November 12, 2024
+
+Using hiragana for certain kanji makes emails easier to read and look more professional.
+
+Examples:
+- 予め → あらかじめ
+- 確認させて頂きます → 確認させていただきます
+- 通常通り → 通常どおり
+- 宜しくお願い致します → よろしくお願いいたします
+
+Additional words to write in hiragana:
+- 何時 → いつ
+- 既に → すでに
+- 沢山 → たくさん
+- 共に → ともに
+- 是非 → ぜひ
+- 後程 → のちほど
+- 更に → さらに
+- 然し → しかし
+- 但し → ただし
+- 一旦 → いったん
+- 従って → したがって
+- 出来る → できる
+- 分かる → わかる
+- 至って → いたって
+- 改めて → あらためて
+- 恐らく → おそらく
+- 未だに → いまだに
+- 大いに → おおいに
+- 尚 → なお
+- 又 → また
+- 及び → および
+
+---
+
+Vol.17 — 御社 vs 貴社 / 弊社 vs 当社
+Author: August 14, 2025
+
+Referring to the customer's company (second-person):
+- 御社（おんしゃ） → use when SPEAKING (phone calls)
+- 貴社（きしゃ） → use when WRITING (emails)
+
+Referring to Wise (first-person):
+- 弊社（へいしゃ） → use when talking/writing to someone OUTSIDE the company (recommended for CST interactions)
+- 当社（とうしゃ） → use when talking/writing to someone WITHIN the company
+
+---
+
+Vol.19 — 「できかねます」で終わってない？
+Author: January 9, 2026
+
+「できかねます」is a polite refusal, but ending there can feel like a wall to the customer.
+
+The magic formula: できかねます + 代替案 (alternative) = Next-level support!
+
+- ❌ 送金を早めることはできかねます。
+- ✅ 送金を早めることはできかねますが、現在の進捗状況と送金にかかるお時間をお調べいたします。
+- ❌ 確認できかねます。
+- ✅ カスタマーサポートでは確認できかねますが、至急担当部署に申し伝えますので今しばらくお待ちいただきますようお願いいたします。
+
+Saying "no" politely is good. Saying "no, but here's what we CAN do" is Wise!
+
+---
+
+Vol.20 — 「〜のほう」
+Author: February 25, 2026
+
+「〜のほう」is only correct for three uses: 1) comparison, 2) direction/location, 3) responsibility/side.
+
+1) Comparison — comparing options:
+「SWIFTと現地通貨での送金を比べると、一般的に後者のほうが手数料がお安く送金ができるかと存じます。」
+
+2) Direction / location:
+「書類はアップロードの添付欄のほうからご提出していただけますか？」
+
+3) Responsibility / who will act:
+「この件は私のほうで確認し、進捗あり次第メールにてご連絡いたします。」
+
+Common misuses to avoid:
+- ❌ 「解決のほう」→ vague; doesn't tell the customer who does what or when
+- ✅ 「解決に向けてこちらで対応いたします。」
+- ✅ 「解決のために担当部署のほうからご連絡いたします。」
+- ❌ 「ご安心のほう」→ unnaturally nominalizes a state
+- ✅ 「ご安心いただけますと幸いです。」
+- ✅ 「ご安心いただけるよう、速やかに対応いたします。」
+
+---
+
+Vol.21 — 「ちなみに」
+Author: March 30, 2026
+
+「ちなみに」is a conjunctive expression used to add a brief, related supplement to what was said right before.
+
+Key points:
+- 「ちなみに」itself is NOT Keigo — it doesn't make a sentence polite on its own.
+- It can sound casual — use only for a short add-on after the main message.
+- Don't confuse with 「ところで」: 「ちなみに」supplements the same topic; 「ところで」changes the topic.
+
+✅ Good use (short supplemental info):
+「お手続きは完了しております。ちなみに（ちなみに申し上げますと）、反映まで最長1営業日かかる場合がございます。」
+
+⚠️ Avoid (important requests or changing topic):
+- ❌ 「ちなみに、本人確認書類をご提出ください。」
+- ✅ 「恐れ入りますが、本人確認書類のご提出をお願いいたします。」
+
+Safer alternatives:
+- 「補足いたしますと、…」
+- 「念のため、…」
+- 「なお、…」
+- 「あわせて、…」
+
+---
+
+Vol.22 — Stop the Back-and-Forth: Ask for Info the Wise Way
+Author: April 30, 2026
+
+❌ Problem: 「詳細をご教示ください。」— polite and correct, but too vague. Customers don't know what to tell you.
+
+✅ Magic formula: Polite request + Reason + Concrete checklist + Next step = faster replies, faster resolution, better experience.
+
+Before: 詳細をご教示ください。
+
+After: 恐れ入りますが状況確認のため、以下の情報をご共有いただけますでしょうか。
+
+1. 発生した日時
+2. 金額と通貨（該当する場合）
+3. 表示されたエラーメッセージ（文言）
+4. 可能でしたらスクリーンショット
+
+上記の情報をご共有いただき次第、こちらで確認のうえ次の対応をご案内いたします。
+
+---
+
+Vol.23 — 二重敬語
+Author: July 20, 2026
+
+What is 二重敬語? Applying the same type of honorific twice to a single verb.
+
+Most common pattern: 「お／ご + verb + になる」(honorific) ＋「れる／られる」(also honorific) → 二重敬語 ❌
+
+文化庁 cites 「お読みになられる」as a textbook example and states that 二重敬語 is "generally not appropriate" (with a few fixed exceptions like 「お召し上がりになる」).
+
+Practical fixes:
+
+Referring back to what the customer said (very common on calls):
+- ❌ 先ほどおっしゃられたとおり…
+- ✅ 先ほどおっしゃったとおり…
+- 💡 「おっしゃる」is already honorific — adding「られる」makes it 二重敬語. Just drop it.
+
+Asking if the customer has checked the email:
+- ❌ メールはご確認になられましたでしょうか
+- ✅ メールはご確認いただけましたでしょうか
+
+Checking whether documents were submitted:
+- ❌ 書類はご提出になられましたでしょうか
+- ✅ 書類はご提出いただけましたでしょうか
+- ✅ アップロードは完了しておりますでしょうか
+
+Sources:
+- 文化庁「敬語おもしろ相談室」第四話: https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/keigo/chapter4/detail.html
+- NHK放送文化研究所「敬語は使う相手に気をつけて」: https://www.nhk.or.jp/bunken/research/kotoba/20200601_3.html
+
+---
+
+敬語 Refresher — Quick Review of Common Mistakes
+Author: June 28, 2026
+
+A friendly reminder of the most commonly-slipped-into mistakes:
+
+• 「お名前を頂戴します」— 頂戴する means "to receive/accept (something)" — unnatural with a person's name.
+  ✅ 「お名前を伺います」／「お名前を教えていただけますか」
+
+• 「なるほど」— Can sound like you're evaluating what the customer said. 「なるほどです」doesn't fix it.
+  ✅ 「承知しました」／「かしこまりました」／「ありがとうございます（理解しました）」
+
+• 「〜になります」— 「〜になる」should only be used when there is a change of state.
+  ✅ Use 「〜です／〜でございます」 or 「〜いただけます／ください」 instead.
+
+---
+
+Kanji vs Hiragana — When to Use Which
+Author: October 20, 2024
+
+Using hiragana for certain words makes emails easier and more professional to read for customers.
+
+Kanji                    → Hiragana
+予め                     → あらかじめ
+確認させて頂きます          → 確認させていただきます
+通常通り                  → 通常どおり
+宜しくお願い致します        → よろしくお願いいたします
+
+References:
+- ことば塾「ひらがなで書く？漢字で書く？」: https://www.nhk.or.jp/kumamoto/lreport/article/003/63/
+- 漢字？ひらがな？使い分けに迷ったときの７つのポイント: https://kagurazaka-editors.jp/common-kanji-and-kana/
+- 公用文における漢字使用等について (文化庁): https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/koyobun/pdf/kunrei.pdf
+
+---
+
+Japanese Business Manner Wiki
+For a full log and additional resources, visit: https://transferwise.atlassian.net/wiki/spaces/BJ/overview?homepageId=3355214579
