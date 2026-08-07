@@ -1,11 +1,12 @@
-const TRAILING_PUNCTUATION = /[。．.]+$/u;
+const WHITESPACE = /[\s　]+/gu;
+const IGNORABLE_PUNCTUATION = /[、。，．,.!！?？:：;；・「」『』“”‘’"'（）()［］\[\]【】]/gu;
 
 export function normalizeAnswer(value) {
   return value
     .normalize("NFKC")
     .trim()
-    .replace(/[\s　]+/gu, "")
-    .replace(TRAILING_PUNCTUATION, "");
+    .replace(WHITESPACE, "")
+    .replace(IGNORABLE_PUNCTUATION, "");
 }
 
 export function isTextAnswerCorrect(answer, acceptedAnswers) {
