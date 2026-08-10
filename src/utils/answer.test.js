@@ -47,3 +47,37 @@ test("敬語表現そのものが異なる回答は正解にしない", () => {
     false,
   );
 });
+
+test("未登録でも問題別の必須表現をすべて満たせば正解にする", () => {
+  assert.equal(
+    isTextAnswerCorrect("ご不明点は担当者までお問い合わせください", [], {
+      requiredGroups: [["不明"], ["お尋ねください", "お問い合わせください"]],
+      forbiddenExpressions: ["お伺いください"],
+    }),
+    true,
+  );
+});
+
+test("必須表現を満たしても禁止表現があれば不正解にする", () => {
+  assert.equal(
+    isTextAnswerCorrect(
+      "ご不明点は担当者までお問い合わせのうえ、お伺いください",
+      [],
+      {
+        requiredGroups: [["不明"], ["お問い合わせ"]],
+        forbiddenExpressions: ["お伺いください"],
+      },
+    ),
+    false,
+  );
+});
+
+test("必須表現が不足していれば不正解にする", () => {
+  assert.equal(
+    isTextAnswerCorrect("担当者までお問い合わせください", [], {
+      requiredGroups: [["不明"], ["お問い合わせください"]],
+      forbiddenExpressions: [],
+    }),
+    false,
+  );
+});

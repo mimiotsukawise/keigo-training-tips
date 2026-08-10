@@ -9,10 +9,36 @@ export function normalizeAnswer(value) {
     .replace(IGNORABLE_PUNCTUATION, "");
 }
 
-export function isTextAnswerCorrect(answer, acceptedAnswers) {
+function includesAny(value, expressions) {
+  return expressions.some((expression) =>
+    value.includes(normalizeAnswer(expression)),
+  );
+}
+
+export function isTextAnswerCorrect(
+  answer,
+  acceptedAnswers,
+  gradingRules = null,
+) {
   const normalizedAnswer = normalizeAnswer(answer);
 
-  return acceptedAnswers.some(
+  const matchesAcceptedAnswer = acceptedAnswers.some(
     (acceptedAnswer) => normalizeAnswer(acceptedAnswer) === normalizedAnswer,
+  );
+
+  if (matchesAcceptedAnswer) {
+    return true;
+  }
+
+  if (!gradingRules) {
+    return false;
+  }
+
+  if (includesAny(normalizedAnswer, gradingRules.forbiddenExpressions ?? [])) {
+    return false;
+  }
+
+  return gradingRules.requiredGroups.every((group) =>
+    includesAny(normalizedAnswer, group),
   );
 }
