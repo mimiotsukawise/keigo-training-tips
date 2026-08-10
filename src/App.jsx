@@ -22,7 +22,11 @@ function getAnswerLabel(question, answer) {
 
 function isAnswerCorrect(question, answer) {
   if (question.type === "rewrite") {
-    return isTextAnswerCorrect(answer, question.acceptedAnswers);
+    return isTextAnswerCorrect(
+      answer,
+      question.acceptedAnswers,
+      question.gradingRules,
+    );
   }
 
   return answer === question.correctAnswer;
