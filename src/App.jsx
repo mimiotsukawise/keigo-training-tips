@@ -6,10 +6,12 @@ import { QuestionCard } from "./components/QuestionCard.jsx";
 import { ResultCard } from "./components/ResultCard.jsx";
 import { questions } from "./data/questions.js";
 import { isTextAnswerCorrect } from "./utils/answer.js";
-import { shuffleQuestions } from "./utils/quiz.js";
+import { selectRandomQuestions } from "./utils/quiz.js";
+
+const QUESTIONS_PER_QUIZ = 20;
 
 function createQuizOrder() {
-  return shuffleQuestions(questions);
+  return selectRandomQuestions(questions, QUESTIONS_PER_QUIZ);
 }
 
 function getAnswerLabel(question, answer) {

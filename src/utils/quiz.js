@@ -11,3 +11,11 @@ export function shuffleQuestions(questions, random = Math.random) {
 
   return shuffled;
 }
+
+export function selectRandomQuestions(
+  questions,
+  count,
+  random = Math.random,
+) {
+  return shuffleQuestions(questions, random).slice(0, Math.min(count, questions.length));
+}
